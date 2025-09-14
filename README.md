@@ -41,8 +41,6 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 - [**LatticeProcessing**](https://github.com/ahansenlab/LatticeProcessing)  
   _Advanced tools for lattice-based data analysis._
 
-- [**Testing Nvidia CuPyNumeric**](https://github.com/JKaestelHansen/Testing_nvidia_cupynumeric)  
-  _GPU-accelerated numerical computing explorations._
 
 ---
 
