@@ -29,11 +29,11 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 
 ## 📚 Featured Projects
 
-- [**XAI Timeseries Model**](https://github.com/JKaestelHansen/XAI_Timeseries_model)  
-  _Exploring explainable AI and interpretability for biological datasets with limited labels._
-
 - [**DeepSPT**](https://github.com/JKaestelHansen/DeepSPT)  
   _Leveraging deep learning to analyze and interpret biological motion._
+  
+- [**XAI Timeseries Model**](https://github.com/JKaestelHansen/XAI_Timeseries_model)  
+  _Exploring explainable AI and interpretability for biological datasets with limited labels._
 
 - [**Probabilistic ML**](https://github.com/JKaestelHansen/Probabilistic_ML)  
   _Probabilistic approaches to machine learning and uncertainty._
@@ -44,7 +44,7 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 - [**protein_regression**](https://github.com/JKaestelHansen/protein_regression)  
    A systematic analysis of regression models for protein engineering Repository to replicate the results of [A systematic analysis of regression models for protein engineering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012061)._
 
-  - [**protein_regression**](https://github.com/hatzakislab/SEMORE)  
+- [**SEMORE**](https://github.com/hatzakislab/SEMORE)  
    A multi-independent-module pipeline for structure segmentation and disection in single molecule localization microscopy (SMLM) data and the extraction of unique morphological fingerprints. [SEMORE](https://www.nature.com/articles/s41467-024-46106-0)._
 
 - [**Variations_of_VAE**](https://github.com/JKaestelHansen/Variations_of_VAE)  
