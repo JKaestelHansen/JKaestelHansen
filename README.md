@@ -74,9 +74,9 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Jacob%20Kaestel%20Hansen-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jacob-kaestel-hansen)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jacob-kaestel-hansen)
 
-[![Google Scholar](https://img.shields.io/badge/-Jacob%20Kaestel%20Hansen-blue?logo=linkedin&logoColor=white&style=flat)](https://scholar.google.com/citations?user=og-0z0wAAAAJ&hl=da)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?logo=linkedin&logoColor=white&style=flat)](https://scholar.google.com/citations?user=og-0z0wAAAAJ&hl=da)
 
 ---
 
