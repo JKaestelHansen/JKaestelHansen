@@ -41,7 +41,17 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 - [**LatticeProcessing**](https://github.com/ahansenlab/LatticeProcessing)  
   _Advanced tools for lattice-based data analysis._
 
+- [**protein_regression**](https://github.com/JKaestelHansen/protein_regression)  
+   A systematic analysis of regression models for protein engineering Repository to replicate the results of [A systematic analysis of regression models for protein engineering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012061)._
 
+  - [**protein_regression**](https://github.com/hatzakislab/SEMORE)  
+   A multi-independent-module pipeline for structure segmentation and disection in single molecule localization microscopy (SMLM) data and the extraction of unique morphological fingerprints. [SEMORE](https://www.nature.com/articles/s41467-024-46106-0)._
+
+- [**Variations_of_VAE**](https://github.com/JKaestelHansen/Variations_of_VAE)  
+  _Implementations of VAEs based on Riesselman et al 2018 "Deepsequence" both the standard from the paper, but also extended to conditional and semi-supervised variants._
+
+- [**Additional analysis repos**]
+   Multiple codebases for published studies from my PhD/Postdoc are also stored on my Github._
 ---
 
 ## 🌱 Mission Statement
