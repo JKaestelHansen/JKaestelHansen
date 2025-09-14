@@ -42,7 +42,7 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 ## 📚 Featured Projects
 
 - [**DeepSPT**](https://github.com/JKaestelHansen/DeepSPT)  
-  _Leveraging deep learning to analyze and interpret biological motion._
+  _Leveraging deep learning to analyze and interpret biological motion:_ [SEMORE](https://www.nature.com/articles/s41592-025-02665-8)
   
 - [**XAI Timeseries Model**](https://github.com/JKaestelHansen/XAI_Timeseries_model)  
   _Exploring explainable AI and interpretability for biological datasets with limited labels._
@@ -54,10 +54,10 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
   _Advanced tools for lattice-based data analysis._
 
 - [**protein_regression**](https://github.com/JKaestelHansen/protein_regression)  
-   _A systematic analysis of regression models for protein engineering Repository to replicate the results of_ [A systematic analysis of regression models for protein engineering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012061)._
+   _A systematic analysis of regression models for protein engineering Repository to replicate the results of:_ [A systematic analysis of regression models for protein engineering](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012061)
 
 - [**SEMORE**](https://github.com/hatzakislab/SEMORE)  
-   _A multi-independent-module pipeline for structure segmentation and disection in single molecule localization microscopy (SMLM) data and the extraction of unique morphological fingerprints._ [SEMORE](https://www.nature.com/articles/s41467-024-46106-0)._
+   _A multi-independent-module pipeline for structure segmentation and disection in single molecule localization microscopy (SMLM) data and the extraction of unique morphological fingerprints:_ [SEMORE](https://www.nature.com/articles/s41467-024-46106-0)._
 
 - [**Variations_of_VAE**](https://github.com/JKaestelHansen/Variations_of_VAE)  
   _Implementations of VAEs based on Riesselman et al 2018 "Deepsequence" both the standard from the paper, but also extended to conditional and semi-supervised variants._
