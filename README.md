@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Jacob Kaestel Hansen
+# 👋 Hi, I'm Jacob Kæstel-Hansen (Kaestel-Hansen
 
 **Postdoctoral Fellow @ MIT | Bridging AI, Physics, and Biology**
 
