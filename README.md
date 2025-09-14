@@ -16,14 +16,27 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 ---
 
 ## 🛠️ Skills & Technologies
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0077B5?style=for-the-badge&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00B8A9?style=flat)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-0A192F?style=flat)
 ![XAI](https://img.shields.io/badge/-XAI-6E40C9?style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-00B8A9?style=flat)
-![Image Analysis](https://img.shields.io/badge/-Image%20Analysis-009688?style=flat)
 ![Uncertainty Estimation](https://img.shields.io/badge/-Uncertainty%20Estimation-F9A825?style=flat)
+![Statistics](https://img.shields.io/badge/Statistics-0000FF?style=for-the-badge&logo=statistics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Time-Series](https://img.shields.io/badge/Time--Series-4B8BBE?style=for-the-badge&logo=clockify&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-228B22?style=for-the-badge&logo=dna&logoColor=white)
+![Image Analysis](https://img.shields.io/badge/-Image%20Analysis-009688?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Captum](https://img.shields.io/badge/Captum-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 ---
 
