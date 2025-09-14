@@ -50,8 +50,8 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 - [**Variations_of_VAE**](https://github.com/JKaestelHansen/Variations_of_VAE)  
   _Implementations of VAEs based on Riesselman et al 2018 "Deepsequence" both the standard from the paper, but also extended to conditional and semi-supervised variants._
 
-- [**Additional analysis repos**]
-   Multiple codebases for published studies from my PhD/Postdoc are also stored on my Github._
+- **Additional analysis repos**
+  _Multiple codebases for published studies from my PhD/Postdoc are also stored on my Github._
 ---
 
 ## 🌱 Mission Statement
