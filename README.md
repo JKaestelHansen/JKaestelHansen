@@ -62,6 +62,9 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 - [**Variations_of_VAE**](https://github.com/JKaestelHansen/Variations_of_VAE)  
   _Implementations of VAEs based on Riesselman et al 2018 "Deepsequence" both the standard from the paper, but also extended to conditional and semi-supervised variants._
 
+- [**Video_object_tracking_**](https://github.com/JKaestelHansen/end2end_celltracker)  
+  _Hacking into pytorch maskrcnn for making an end2end model for object tracking over time and segmentation of morphology._
+  
 - **Additional analysis repos**
   _Multiple codebases for published studies from my PhD/Postdoc are also stored on my Github._
 ---
