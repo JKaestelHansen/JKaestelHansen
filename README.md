@@ -53,7 +53,7 @@ I'm a postdoc fellow at MIT, passionate about pushing the boundaries between art
 - [**LatticeProcessing**](https://github.com/ahansenlab/LatticeProcessing)  
   _Advanced tools for lattice-based data analysis._
 
-- [**Computer_vision**](https://github.com/JKaestelHansen/computer_vision_tools)  
+- [**Computer_vision**](https://github.com/JKaestelHansen/computervision_exploration)) 
   _Playground for Dino and other computervision tools._
 
 - [**protein_regression**](https://github.com/JKaestelHansen/protein_regression)  
